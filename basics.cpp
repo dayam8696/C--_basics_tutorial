@@ -5,7 +5,7 @@ int main()
 {
         cout << "hello world dayam" << endl;
         //     Data types in C++
-
+        
         int b;
         long c;
         long long d;
